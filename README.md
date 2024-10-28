@@ -12,7 +12,7 @@
 ### •  🎯  Futuro Fullstack.
 ### •  👯 Estou procurando colaborar em projetos de código aberto
 
-![kaiolucas01 GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiolucas01s&show_icons=true&theme=radical)
+![kaiolucas01 GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiolucas01&show_icons=true&theme=radical)
 
 ## 📈 Tecnologias:
 
