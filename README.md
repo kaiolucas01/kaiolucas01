@@ -12,7 +12,7 @@
 ### •  🎯  Futuro Fullstack.
 ### •  👯 Estou procurando colaborar em projetos de código aberto
 
-![Kaiolucass GitHub stats](https://github-readme-stats.vercel.app/api?username=Kaiolucass&show_icons=true&theme=radical)
+![kaiolucas01 GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiolucas01s&show_icons=true&theme=radical)
 
 ## 📈 Tecnologias:
 
@@ -32,4 +32,4 @@
 
 
 ## ⚙ Tecnologias mais usadas no dia a dia:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kaiolucass&layout=donut&theme=radical)](https://github.com/Kaiolucass/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiolucas01&layout=donut&theme=radical)](https://github.com/kaiolucas01/github-readme-stats)
